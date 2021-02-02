@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.example.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.example.org/All_nike-japan-racism-ad-intl-hnk">
+    <ns1:is_part_of rdf:resource="http://www.example.org/business"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/hbo-max-amazon-fire-tv">
+    <ns1:is_part_of rdf:resource="http://www.example.org/media"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/drake-candle_entertainment">
+    <ns1:is_part_of rdf:resource="http://www.example.org/entertainment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/india-bans-chinese-apps-hnk-intl">
+    <ns1:is_part_of rdf:resource="http://www.example.org/tech"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/sedentary-lockdown-health-impact-wellness-partnerindex">
+    <ns1:is_part_of rdf:resource="http://www.example.org/health"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/halima-aden-hijab-quits-intl-hnk-scli">
+    <ns1:is_part_of rdf:resource="http://www.example.org/style"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/diego-maradona-psychiatrist-agustina-cosachov-spt-intl">
+    <ns1:is_part_of rdf:resource="http://www.example.org/sports"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/brisbane-airport-wasps-scn">
+    <ns1:is_part_of rdf:resource="http://www.example.org/travel"/>
+  </rdf:Description>
+</rdf:RDF>
